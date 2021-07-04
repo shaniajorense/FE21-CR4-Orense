@@ -1,0 +1,76 @@
+let movies = `[{
+    "name" :"The Night Before",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-nightbefore-700x1034.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 3
+},{
+    "name" :"The Peanuts Movie",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-peanuts-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 2
+},{
+    "name" :"Krampus",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-krampus.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 1
+},{
+    "name" :"The Visit",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-visit-700x1109.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 0
+},{
+    "name" :"The Martian",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-martian-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 0
+},{
+    "name" :"Kingsman: The Secret Service",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposters-kingsman-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 0
+},{
+    "name" :"Bone Tomahawk",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-bonetomahawk-700x1036.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 3
+},{
+    "name" :"Hitman: Agent 47",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposters-agent47-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 4
+},{
+    "name" :"No Escape",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-noescape-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 10
+},{
+    "name" :"Macbeth",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-macbeth-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 11
+},{
+    "name" :"The End of the Tour",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposters-endofthetour-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 15
+},{
+    "name" :"Raiders!: The Story of the Greatest Fan Film Ever Made",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-raiders-700x1031.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 2
+},{
+    "name" :"Spectre",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposter-spectre-700x1038.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 6
+},{
+    "name" :"The Hunger Games: Mockingjay – Part 2",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposters-mockingjay2-700x1051.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 3
+},{
+    "name" :"Drunk Stoned Brilliant Dead: The Story of National Lampoon",
+    "image" : "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/2015bestposters-drunkstoned.jpg",
+    "description" :"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "likes" : 13
+}]`

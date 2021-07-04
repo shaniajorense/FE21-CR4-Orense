@@ -1,0 +1,74 @@
+@import "../bootstrap/scss/functions";
+
+// 2. Include any default variable overrides here
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "../bootstrap/scss/variables";
+@import "../bootstrap/scss/mixins";
+
+// 4. Include any optional Bootstrap components as you like
+@import "../bootstrap/scss/root";
+@import "../bootstrap/scss/reboot";
+@import "../bootstrap/scss/type";
+@import "../bootstrap/scss/images";
+@import "../bootstrap/scss/containers";
+@import "../bootstrap/scss/grid";
+
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100&display=swap');
+
+
+
+#back {
+    background-image: linear-gradient(rgba(216, 95, 95, 0.6),rgba(0, 0, 0, 0.1)), url(../img/cinema-01-920x518.jpg);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#name{
+    color: white;
+    font-size: 8em;
+    font-family: 'Tourney', cursive;
+}
+
+#navbar{
+    display: flex;
+    justify-content: start;
+    background-color: black;
+       
+}
+
+li{
+    
+    font-size: 19pt;
+    list-style: none;
+    color:white;
+    font-family: 'Tourney', cursive;
+}
+
+ #container{
+   background-color: black;
+}
+
+/*.likebut{
+    color: white;
+    background-color: green;
+}*/
+
+//.EachCol{
+    //justify-content: center;
+//}
+
+.card-body{
+    color: white;
+}
+
+.LikeBnt{
+    color: white;
+}
+
+#dropdown{
+    color: white;
+}
